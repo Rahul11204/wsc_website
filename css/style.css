@@ -1,0 +1,272 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.whatsappbtn{
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    color: #27AE60;
+    font-size: 16px;
+}
+
+.whatsappbtn i{
+    color: #27AE60;
+    padding-right: 4px;
+}
+
+.whatsappbtn:hover{
+    border: 1px solid #27AE60;
+}
+
+.call{
+    background:linear-gradient(to right, #0ACEFE, #2699fb);
+    color: #FFFFFF;
+    padding: 10px 18px;
+}
+
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: bold;
+}
+
+.bannerContent p{
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.bannerContent ul{
+    font-size: 22px;
+    line-height: 33px;
+    font-weight: 400;
+    list-style: none;
+}
+
+.bannerContent span{
+    color: #2699fb;
+    background-image: url(../images/arrow_zig.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.bannerContent ul li{
+    font-size: 22px;
+}
+
+.bannerContent ul li i{
+    color: #2699fb;
+}
+
+.bannerContentBtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 8px;
+    border: 5px;
+    
+}
+
+.bannerContentBtn button:first-child{
+    color: white;
+    background:linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bannerForm p{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.52px;
+}
+
+.bannerForm button{
+    width: 100%;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+    border-radius: 8px;
+    border: 1px;
+    height: 44px;
+}
+
+.counterSection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
+
+.counterSection p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.highlight-section{
+    background: #F7FAFF;
+}
+
+.highlight-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.highlight-section p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.highlightItems h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.highlightItems p{
+    font-size: 15px;
+}
+
+.bookButton button{
+    background:linear-gradient(to right,#0ACEFE,#2699FB);
+    border-radius: 8px;
+    border: 1px;
+    padding: 16px 48px 16px 48px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.career-option h2{
+    font-size: 44px;
+    font-weight: 600;
+}
+
+.top-career h2{
+    font-size: 18px;
+    font-weight: 600;
+    color: #0A2134;
+}
+
+.top-career p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #0A2134;
+}
+.get-certified{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.get-discript{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.certificate{
+    position: relative;
+    justify-content: center;
+}
+
+.highlight-2 h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+.image{
+    background-color: #f8f8f8;
+}
+
+.image h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+    margin-top: 2px;
+}
+
+.whylearn{
+    background-color: #e9feff;
+}
+
+.whatour h1{
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.whatour{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.ourCandidate h2{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.con{
+    height: 384px;
+    width: 1170px;
+    border-radius: 16px;
+}
+
+.ready{
+    background:linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+.ready h2{
+    color: #FFFFFF;
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.ready p{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.readyButton button{
+    background-color: #FFFFFF;
+    color: #0A2134;
+    border-radius: 8px;
+    border: 1px;
+    padding: 16px 48px 16px 48px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+
+
+.tabMySystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #F7FAFF;
+    color: black;
+    border-bottom: 2px solid #2699FB;
+    border-radius: 0px;
+}
+
+.company h2{
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.footer{
+    background-color: #0A2540;
+    width: 1400px;
+}
+
+.footer p{
+    color: #FFFFFF;
+}
+
+.footer hr{
+    color: #2699FB;
+}
+
+.footerRights p{
+    font-size: 16px;
+    font-weight: 400;
+}
